@@ -1,0 +1,5 @@
+# Versions verified with Python 3.11.9 on Windows.
+mne==1.13.2
+numpy==2.4.6
+scipy==1.17.1
+matplotlib==3.11.2

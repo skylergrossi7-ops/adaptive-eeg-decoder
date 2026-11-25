@@ -1,0 +1,24 @@
+{
+  "individual_prefix_scores_checked": 216,
+  "participants": 9,
+  "matched_draws": 900,
+  "distinct_test_trials": 1183,
+  "full_calibration_labels": 1163,
+  "calibration_labels_per_person": 10,
+  "streaming_improved_people": 9,
+  "delta_accuracy": 2.136007670926121,
+  "delta_bootstrap95": [
+    1.5270987031809762,
+    2.8529684161332005
+  ],
+  "streaming_accuracy_bootstrap95": [
+    72.83554857519474,
+    87.89027840931412
+  ],
+  "matched_draw_means_over_80": 58,
+  "draw_mean_range": [
+    78.86167326537347,
+    81.96510319750114
+  ],
+  "budget_cache_sha256": "bfa7348f84ab4bd12f3abcc88602ff42031557d4e34754e5f0974b9f1d8eefae"
+}
