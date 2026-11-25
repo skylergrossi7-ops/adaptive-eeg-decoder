@@ -2,9 +2,9 @@
 
 Can a decoder recognize imagined left- and right-hand movement on a second recording day after just five labeled examples per hand? In this nine-person retrospective study, chronological replay reached **80.16% mean day-two accuracy**, compared with **78.03%** when each trial was scored independently.
 
-[Read the research report (PDF)](report/Motor_Imagery_Research_Report.pdf) · [Download the interactive replay](https://github.com/skylergrossi7-ops/adaptive-eeg-decoder/raw/refs/heads/main/demo/EEG_Replay.html) · [Inspect participant-level results](results/ensemble-verified.csv)
+[Try the interactive EEG replay](https://skylergrossi7-ops.github.io/adaptive-eeg-decoder/demo/EEG_Replay.html) · [Read the research report (PDF)](report/Motor_Imagery_Research_Report.pdf) · [Inspect participant-level results](results/ensemble-verified.csv)
 
-Open the downloaded HTML in a browser and press **Play**. The arrow shows the instruction given to the participant. Compare it with each decoder's guess on the same recorded trial, then switch participants to see how performance varies.
+Open the replay and press **Play**. The arrow shows the instruction given to the participant. Compare it with each decoder's guess on the same recorded trial, then switch participants to see how performance varies.
 
 ![Day-two results by participant](results/day-two-accuracy.png)
 
